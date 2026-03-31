@@ -1,7 +1,5 @@
-# Week 0 — Team Summary
-
-  # MEESKOND: UrbanStyle SALES ANALYTICS 
-  NÄDAL: 0 
+  ## MEESKOND: UrbanStyle SALES ANALYTICS 
+  KOKKUVÕTTE, NÄDAL: 0
   ---
 
   "HELLO, URBANSTYLE!" -- KÕIK SÜSTEEMID ÜHENDATUD ✅
