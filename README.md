@@ -1,4 +1,4 @@
-﻿# daca-portfolio
+﻿# DACA-portfolio
 
 **Programm:** Data Analyst Career Accelerator (DACA)
 **Osaleja:** Vladimir Gorbatjuk
