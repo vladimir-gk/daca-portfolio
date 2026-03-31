@@ -1,7 +1,8 @@
 # Week 0 — Team Summary
 
-  MEESKOND: UrbanStyle SALES ANALYTICS 
-  NÄDAL: 0 |
+  # MEESKOND: UrbanStyle SALES ANALYTICS 
+  NÄDAL: 0 
+  ---
 
   "HELLO, URBANSTYLE!" -- KÕIK SÜSTEEMID ÜHENDATUD ✅
 
@@ -16,4 +17,4 @@ SUURIM ÜLLATUS: Arvasime, et seadistamine on lihtne tehniline töö, aga tegeli
 SOOVITUS TOOMASELE: Lisa järgmiseks päris UrbanStyle'i müügi- ja kliendiandmed - praegu on töökeskkond valmis, aga andmed puuduvad. 
 
 PUUDUVAD ANDMED: Meil polnud ühtegi päris äriandmet – ei müüki, kliente ega tooteid. Lõime küll tabeli, aga ainult meeskonnaliikmete nimedega. See ei ole veel analüüsitav andmebaas.
-<img width="3233" height="81" alt="image" src="https://github.com/user-attachments/assets/fbc3b739-23ae-4967-9317-d3c98278bc90" />
+
