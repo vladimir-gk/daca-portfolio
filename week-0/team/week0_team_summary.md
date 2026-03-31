@@ -12,7 +12,7 @@
 
 | Tööriist | Link | Sisu |
 |---|---|---|
-| **GitHub** | [urbanstyle-Product-Analytics](https://github.com/jelena-iljina/urbanstyle-Product-Analytics) | README + charter.md |
+| **GitHub** | [urbanstyle-Sales-Analytics](https://github.com/jelena-iljina/urbanstyle-Sales-Analytics) | README + charter.md |
 | **Supabase** | [hydpsemnoyqtlktppbqo.supabase.co](https://hydpsemnoyqtlktppbqo.supabase.co) | team_members + team_charter tabelid |
 | **NotebookLM** | [Avage märkmik](https://notebooklm.google.com/notebook/354c3755-5722-4ada-b1ee-5db07d9d49f5) | 4 Core RAG + Audio Overview |
 | **Team Charter** | GitHubis + Supabase'is | Sotsiaalne leping |
