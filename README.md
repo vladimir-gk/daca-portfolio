@@ -1,7 +1,7 @@
 # DACA-portfolio
 **Programm:** Data Analyst Career Accelerator (DACA)
 **Osaleja:** Vladimir G
-**Algus:** 24.03.2026
+**Algus:** 24.03.2026-26.05.2026
 
 ## Kirjeldus
 
