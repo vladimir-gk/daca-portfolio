@@ -46,18 +46,25 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ### Week 6: Power BI Andmelood ✅
 - Lõin kaupluste interaktiivsed dashboardid koos storytelling narratiividega
 - E-pood kasvab +35.4% YoY — 3x kiiremini kui füüsilised kauplused
-- Rakendasin Knaflic storytelling põhimõtteid: annotatsioonid, viitejooned, "Ja mis siis?" test
+- Rakendasin Knaflic storytelling põhimõtteid: annotatsioonid, viitejooned
 - [Vaata nädala 6 materjale](week6/README.md)
 
-### Week 7: Python andmeanalüüs
+### Week 7: Python RFM Kliendisegmenteerimine ✅
+- Laadisin, puhastasin ja analüüsisin andmeid pandas abil (8 950 rida)
+- Segmenteerisin 2 540 klienti 5 gruppi RFM meetodil
+- 388 VIP klienti genereerivad 39.4% kogukäibest (Pareto printsiip)
+- Lõin 3 Plotly interaktiivset diagrammi soovitustega Markole
+- [Vaata nädala 7 materjale](week7/README.md)
+
+### Week 8: ...
 - (tulemas...)
 
 ## Oskused
 
 - **SQL:** PostgreSQL, Supabase — GROUP BY, JOIN, CTE, window functions
+- **Python:** pandas, plotly — andmepuhastus, RFM analüüs, interaktiivsed diagrammid
 - **Visualiseerimine:** Power BI — dashboardid, KPI kaardid, storytelling, DAX
-- **Python:** pandas, plotly (tulemas...)
-- **Tööriistad:** Git, GitHub, VS Code
+- **Tööriistad:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## Kontakt
 
