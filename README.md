@@ -40,16 +40,22 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ### Week 5: Power BI Dashboardid ✅
 - Koostasin CEO, Marketing ja Operations dashboardid Power BI-s
 - Rakendasin data-ink ratio ja stakeholder-põhise disaini põhimõtteid
-- Investori koondvaade: +16.6% YoY kasv, AOV 287 €, 2 558 aktiivset klienti
+- Investori koondvaade: +19.08% YoY kasv, AOV 287.53 €, 2 552 aktiivset klienti
 - [Vaata nädala 5 materjale](week5/README.md)
 
-### Week 6: Python ja andmeanalüüs
+### Week 6: Power BI Andmelood ✅
+- Lõin kaupluste interaktiivsed dashboardid koos storytelling narratiividega
+- E-pood kasvab +35.4% YoY — 3x kiiremini kui füüsilised kauplused
+- Rakendasin Knaflic storytelling põhimõtteid: annotatsioonid, viitejooned, "Ja mis siis?" test
+- [Vaata nädala 6 materjale](week6/README.md)
+
+### Week 7: Python andmeanalüüs
 - (tulemas...)
 
 ## Oskused
 
 - **SQL:** PostgreSQL, Supabase — GROUP BY, JOIN, CTE, window functions
-- **Visualiseerimine:** Power BI — dashboardid, KPI kaardid, DAX mõõdikud
+- **Visualiseerimine:** Power BI — dashboardid, KPI kaardid, storytelling, DAX
 - **Python:** pandas, plotly (tulemas...)
 - **Tööriistad:** Git, GitHub, VS Code
 
