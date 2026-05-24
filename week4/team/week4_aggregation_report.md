@@ -12,7 +12,7 @@
 ## Rollide kokkuvõte
 
 **Roll A — Müügi koondandmed**
-- 2024. aasta kogu käive: ~2 190 113 €
+- 2024 aasta kogu käive: ~2 190 113 €
 - Parim kuu: detsember (260 334 €, +61.5% novembrist) — jõuluhooaeg
 - Halvim kuu: jaanuar (124 091 €) — hooaja madalpunkt
 - Selge hooajalisus: kaks tippu — suvi (juuni–juuli) ja detsember
