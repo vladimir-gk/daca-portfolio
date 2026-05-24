@@ -56,17 +56,20 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Lõin 3 Plotly interaktiivset diagrammi soovitustega Markole
 - [Vaata nädala 7 materjale](week7/README.md)
 
-### Week 8: ...
-- (tulemas...)
+### Week 8: Python API Pipeline ✅
+- Ehitasin tervikliku ETL pipeline'i: Supabase API → pandas → Plotly → CSV/HTML
+- Lisasin pagination, exponential backoff retry ja failipõhise logimise
+- Pipeline käivitub ühe käsuga: `python pipeline.py`
+- [Vaata nädala 8 materjale](week8/README.md)
 
 ## Oskused
 
 - **SQL:** PostgreSQL, Supabase — GROUP BY, JOIN, CTE, window functions
-- **Python:** pandas, plotly — andmepuhastus, RFM analüüs, interaktiivsed diagrammid
+- **Python:** pandas, plotly, supabase-py — ETL pipeline, RFM analüüs, API päringud
 - **Visualiseerimine:** Power BI — dashboardid, KPI kaardid, storytelling, DAX
 - **Tööriistad:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## Kontakt
 
 - **GitHub:** [github.com/vladimir-gk](https://github.com/sinu-username)
-- **Email:** tbctbc@gmail.com
+- **Email:** ........@gmail.com
