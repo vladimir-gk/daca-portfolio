@@ -17,7 +17,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Uurisin UrbanStyle'i andmebaasi: `sales`, `customers`, `products`
 - Kirjutasin 11 SQL päringut koos kommentaaridega
 - Tuvastasin andmekvaliteedi probleemid: segased kuupäevad, negatiivsed hinnad, duplikaadid
-- [Vaata nädala 1 materjale](week-1/README.md)
+- [Vaata nädala 1 materjale](week1/README.md)
 
 ### Week 2: SQL Andmete Puhastamine
 - (tulemas...)
