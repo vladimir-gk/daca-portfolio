@@ -30,4 +30,4 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ## Kontakt
  
 - **GitHub:** [github.com/vladimir-gk](https://github.com/sinu-username)
-- **Email:** aspire478@gmail.com
+- **Email:** tbctbc@gmail.com
