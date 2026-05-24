@@ -31,12 +31,18 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Koostasin ärilised soovitused müügikanalite ja inventuuri kohta
 - [Vaata nädala 3 materjale](week3/README.md)
 
-### Week 4: SQL Edasijõudnud päringud
+### Week 4: SQL Agregatsioon ✅
+- Koostasin müügi kuutrendid CTE + LAG window function abil
+- Segmenteerisin kliendid VIP/Regular/Uus CASE WHEN abil
+- Analüüsisin turunduskanalite ROI-d (Google Ads parim: 1 773 €/klient)
+- [Vaata nädala 4 materjale](week4/README.md)
+
+### Week 5: Python ja andmeanalüüs
 - (tulemas...)
 
 ## Oskused
 
-- **SQL:** PostgreSQL, Supabase
+- **SQL:** PostgreSQL, Supabase — GROUP BY, JOIN, CTE, window functions
 - **Python:** pandas, plotly (tulemas...)
 - **Visualiseerimine:** Power BI / Streamlit (tulemas...)
 - **Tööriistad:** Git, GitHub, VS Code
