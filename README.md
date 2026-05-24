@@ -1,4 +1,4 @@
-﻿# DACA-portfolio
+# DACA-portfolio
 **Programm:** Data Analyst Career Accelerator (DACA)
 **Osaleja:** Vladimir G
 **Algus:** 24.03.2026
@@ -25,7 +25,13 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Koostasin andmekvaliteedi raporti prioriteetidega
 - [Vaata nädala 2 materjale](week2/README.md)
 
-### Week 3: SQL Andmete Puhastamine
+### Week 3: SQL JOIN-analüüs ✅
+- Ühendasin 4 tabelit INNER JOIN ja LEFT JOIN päringutega
+- Leidsin 592 kadunud klienti ja 34% VIP segmendi
+- Koostasin ärilised soovitused müügikanalite ja inventuuri kohta
+- [Vaata nädala 3 materjale](week3/README.md)
+
+### Week 4: SQL Edasijõudnud päringud
 - (tulemas...)
 
 ## Oskused
@@ -39,5 +45,3 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 - **GitHub:** [github.com/vladimir-gk](https://github.com/sinu-username)
 - **Email:** tbctbc@gmail.com
-
-
