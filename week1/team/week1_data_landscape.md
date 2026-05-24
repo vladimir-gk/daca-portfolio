@@ -43,4 +43,3 @@
 | Linna kirjaviisi ebajärjepidevus | customers | Geograafiline analüüs moonutatud |
 | Duplikaatsed e-mailid | customers | Klientide arv ülehinnatud |
 | `eco_certified` NULL väärtused | products | 18 toodet klassifitseerimata |
-
