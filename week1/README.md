@@ -24,5 +24,3 @@
 - `week1_sales_exploration.sql` — kõik SQL päringud koos kommentaaridega (11 päringut)
 - `week1results_screenshot.png` — tulemuste ekraanitõmmis Supabase'ist
 
-## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile]
