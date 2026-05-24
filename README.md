@@ -67,7 +67,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - **SQL:** PostgreSQL, Supabase — GROUP BY, JOIN, CTE, window functions
 - **Python:** pandas, plotly, supabase-py — ETL pipeline, RFM analüüs, API päringud
 - **Visualiseerimine:** Power BI — dashboardid, KPI kaardid, storytelling, DAX
-- **Tööriistad:** Git, GitHub, Jupyter Notebook, VS Code
+- **Tööriistad:** GitHub, Jupyter Notebook, VS Code
 
 ## Kontakt
 
