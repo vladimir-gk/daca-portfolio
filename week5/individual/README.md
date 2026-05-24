@@ -1,59 +1,32 @@
-# Week 5 | Investori Dashboard — UrbanStyle OÜ koondvaade
+# Nädal 5: Power BI Dashboardid — UrbanStyle stakeholder'i vaated
 
-## KPI kaardid (koondnumbrid, 2023–2024, puhastatud andmed)
+## Mida ma tegin
+- Koostasin CEO dashboardi müügitulu trendi ja KPI kaartidega (Roll A)
+- Disainisin Power BI raportid kasutades UrbanStyle brändipaletti (#009B8D, #1A1A2E)
+- Rakendasin data-ink ratio põhimõtet — eemaldasin 3D efektid, üleliigsed ruudustikujooned
+- Osalesin meeskonna investori koondvaate koostamisel
 
-| KPI | Väärtus | Kontekst |
-|-----|---------|---------|
-| Kogutulu (2023–2024) | 2.91M € | Puhastatud duplikaatidest |
-| Aktiivseid kliente | 2 552 | 18.8% registreerunutest pole ostnud |
-| Keskmine tellimus (AOV) | 287.53 € | Stabiilne kõigis kanalites |
-| Kasv YoY (2023→2024) | +19.08% | Puhastatud andmete põhjal |
+## Peamised õpid
+- Diagrammitüübi valik sõltub küsimusest: trend = joon, võrdlus = tulp, osa tervikust = sektor
+- KPI kaardid on kiireim viis vastata "kas me kasvame?" küsimusele
+- Data-ink ratio: iga tindipunkt peab kandma infot — eemaldada kõik dekoratiivne
+- Stakeholder'i vajadus määrab dashboardi struktuuri, mitte andmete maht
+- "Ühe ekraani reegel" — kerimist ei tohi olla vaja
 
-## Rollide peamised leiud
+## Olulisemad leiud (2023–2024, puhastatud andmed)
+- **+19.08% YoY kasv** (2023→2024)
+- **Kogukäive 2.91M €** | **AOV 287.53 €**
+- **Tallinn 37.62%** kogukäibest — suurim üksik segment
+- **Pood 65.8% vs Online 34.2%** — füüsiline kanal domineerib
+- **231 toodet** kriitilises laoseisus — operatsioonide punane lipp
 
-**Roll A — CEO Dashboard (müügitulu trend)**
-- 2023–2024 kogukäive: 2.91M € (+19.08% YoY)
-- Parim kuu: detsember 2024 — selge jõuluhooaja tipp
-- Halvim kuu: jaanuar 2023 — hooajaline madalpunkt
-- Selge kasvutrend: 2024 teine poolaasta tugevam kui 2023
-- Diagramm: joondiagramm 2023–2024, teal (#009B8D)
+## Failid
+### individual/
+- `week5_roll_a_ceo_dashboard.pbix` — CEO dashboard Power BI-s
+- `week5_dashboard_screenshot.png` — ekraanipilt valmis dashboardist
 
-**Roll B — Marketing Dashboard (kanalite efektiivsus)**
-- Pood: 1.90M € (65.8%) | Online: 1.01M € (34.2%)
-- Pood on per-klient efektiivsem — kõrgem keskmine tellimus
-- Google Organic: suurim turunduskanal mahult
-- Email Campaign: kõrge ROI per klient, alakasutatud
-- Diagramm: tulpdiagramm — pood vs online, sorteeritud
+### team/
+- `week5_investor_dashboard_report.md` — investori koondvaade KPI-de ja soovitustega
 
-**Roll C — Operations Dashboard (inventuur ja kauplused)**
-- Tallinn: 37.62% kogukäibest — suurim kauplus
-- Online: 34.2% — 2. suurim segment
-- Tartu: 18.09% | Pärnu: 10.09%
-- 231 toodet kriitilises laoseisus — kohene tegevus vajalik
-- Diagramm: sektordiagramm kaupluste lõikes (4 segmenti)
-
-**Roll D — Investor Dashboard (koondvaade)**
-- Koondab A, B, C leiud ühele ekraanile
-- KPI kaardid + trend + kanalid + kauplused + investori kokkuvõte
-
-## Investori kokkuvõte
-
-> **UrbanStyle OÜ kasvab +19.08% aastas** (2023→2024), kogukäive 2.91M €.
-> 2 552 aktiivset klienti, keskmine tellimus 287.53 €.
-> Tugevaim kanal: füüsiline pood (65.8% käibest), suurim kauplus: Tallinn (37.62%).
-> Kriitilised tegevuspunktid: 231 toodet vajavad kohest laotellimust ja
-> 592 registreerunud klienti pole veel ostnud — konversioonipotentsiaal olemas.
-> **Soovitus investoritele: kasvupotentsiaal on olemas — online kanal (34.2%)
-> ja Tartu/Pärnu regioonid on alakasutatud.**
-
-## Disainiotsused (Power BI)
-
-| Element | Valik | Põhjus |
-|---------|-------|--------|
-| KPI kaardid | Suur number + muutus % | CEO näeb 10 sekundiga kas kasvame |
-| Trendidiagramm | Joondiagramm | Ajaline trend — joon on parim valik |
-| Kanalite võrdlus | Tulpdiagramm (sorteeritud) | Võrdlus — tulp > sektor |
-| Kaupluste jaotus | Sektordiagramm | Osa tervikust, max 5 elementi |
-| Värvipalett | #009B8D (teal) + #1A1A2E (navy) | UrbanStyle bränd |
-| Paigutus | KPI üleval, trend keskel, tugi all | Hierarhia põhimõte |
-
+## AI kasutamine
+Kasutasin Claude'i diagrammitüüpide valiku põhjendamiseks eri stakeholder'ite jaoks (CEO vs turundus vs operatsioonid) ja KPI kaartide disaini nõustamiseks. AI aitas selgitada data-ink ratio põhimõtet konkreetsete näidetega UrbanStyle andmete kontekstis.
