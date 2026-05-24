@@ -34,17 +34,23 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ### Week 4: SQL Agregatsioon ✅
 - Koostasin müügi kuutrendid CTE + LAG window function abil
 - Segmenteerisin kliendid VIP/Regular/Uus CASE WHEN abil
-- Analüüsisin turunduskanalite ROI-d (Google Ads parim: 1 773 €/klient)
+- Analüüsisin turunduskanalite ROI-d (Google Organic suurim maht)
 - [Vaata nädala 4 materjale](week4/README.md)
 
-### Week 5: Python ja andmeanalüüs
+### Week 5: Power BI Dashboardid ✅
+- Koostasin CEO, Marketing ja Operations dashboardid Power BI-s
+- Rakendasin data-ink ratio ja stakeholder-põhise disaini põhimõtteid
+- Investori koondvaade: +16.6% YoY kasv, AOV 287 €, 2 558 aktiivset klienti
+- [Vaata nädala 5 materjale](week5/README.md)
+
+### Week 6: Python ja andmeanalüüs
 - (tulemas...)
 
 ## Oskused
 
 - **SQL:** PostgreSQL, Supabase — GROUP BY, JOIN, CTE, window functions
+- **Visualiseerimine:** Power BI — dashboardid, KPI kaardid, DAX mõõdikud
 - **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
 - **Tööriistad:** Git, GitHub, VS Code
 
 ## Kontakt
