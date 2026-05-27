@@ -71,5 +71,5 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 
 ## Kontakt
 
-- **GitHub:** [github.com/vladimirgk-analytics/](https://github.com/sinu-username)
+- **GitHub:** [github.com/vladimirgk-analytics/]([https://github.com/sinu-username](https://github.com/vladimirgk-analytics))
 - **Email:** ........@gmail.com
